@@ -1,2 +1,2 @@
 # Databricks notebook source
-import pyspark
+spark.range(16).show()
